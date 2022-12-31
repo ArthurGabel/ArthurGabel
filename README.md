@@ -3,7 +3,7 @@
 
 - 🌱 Main development languages: **React, Vue and TypeScript**
 
-- 👨‍💻 I code since I was 20, and started working as a developer in 2020 
+- 👨‍💻 I code since I was 20, and started working as a developer in 2021 
 
 - 💬 Portuguese is my main tongue, **but I'm also fluently in English and have a high level of Spanish**
 
