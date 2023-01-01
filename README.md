@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">Hi 👋, I'm Arthur. Happy new year!</h1>
 <h3 align="center">I'm just tring to comunicate better with the machines... 🤖</h3>
 
 - 🌱 Main development languages: **React, Vue and TypeScript**
 
-- 👨‍💻 I code since I was 20, and started working as a developer in 2021 
+- 👨‍💻 I code since I was 20, and started working as a developer in 2021
 
 - 💬 Portuguese is my main tongue, **but I'm also fluently in English and have a high level of Spanish**
 
