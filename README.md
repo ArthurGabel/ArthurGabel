@@ -7,8 +7,6 @@
 
 - 💬 Portuguese is my main tongue, **but I'm also fluently in English and have a high level of Spanish**
 
-- 💖 I Love **Open Source Projects**
-
 - 📫 You can reach me any time at **https://www.linkedin.com/in/arthur-gabel/**
 
 <h3 align="left">Languages and Tools:</h3>
