@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur!</h1>
 <h3 align="center">I'm just trying to communicate better with the machines... 🤖</h3>
 
-- 🌱 Main development languages: **Vue, React and TypeScript**
+- 🌱 Main development languages: **Vue, React, and TypeScript**
 
 - 👨‍💻 I code since I was 20, and started working as a developer in 2021
 
