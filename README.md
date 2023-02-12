@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur. Happy new year!</h1>
+<h1 align="center">Hi 👋, I'm Arthur!</h1>
 <h3 align="center">I'm just tring to comunicate better with the machines... 🤖</h3>
 
 - 🌱 Main development languages: **Vue, React and TypeScript**
